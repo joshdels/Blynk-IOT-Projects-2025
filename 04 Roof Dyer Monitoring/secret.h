@@ -1,0 +1,6 @@
+#define BLYNK_TEMPLATE_ID "YOUR TEMPLATE ID"
+#define BLYNK_TEMPLATE_NAME "QUICK START NAME"
+#define BLYNK_AUTH_TOKEN "YOUR AUTH"
+
+char ssid[] = "YOUR SSID";
+char pass[] = "YOUR PASS";
